@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 const table = () => {
     const [userData, setuserData] = useState([])
     useEffect(() => {
-        fetch('http://localhost:3000/api/userapi' || 'https://nextjsapp-two-semil.vercel.app/api/userapi').then((res) => res.json()).then((data) => setuserData([...data]))
+        fetch('https://nextjsapp-two-semil.vercel.app/api/userapi').then((res) => res.json()).then((data) => setuserData([...data]))
     }, [])
     
   return (
