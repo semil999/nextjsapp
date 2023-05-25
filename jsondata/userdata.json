@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "firstName" : "semil",
+        "lastName" : "italiya",
+        "age" : 19,
+        "email" : "semil@gmail.com",
+        "password" : "semil@123",
+        "profile" : "https://images.unsplash.com/photo-1684735675830-a494b3d61b12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyM3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "gender" : "Male"
+    },
+    {
+        "id" : 2,
+        "firstName" : "test",
+        "lastName" : "test",
+        "age" : 23,
+        "email" : "test@gmail.com",
+        "password" : "test@123",
+        "profile" : "https://images.unsplash.com/photo-1684769755470-b117ff5bb580?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "gender" : "Female"
+    },
+    {
+        "id" : 3,
+        "firstName" : "test2",
+        "lastName" : "test2",
+        "age" : 30,
+        "email" : "test2@gmail.com",
+        "password" : "test2@123",
+        "profile" : "https://plus.unsplash.com/premium_photo-1675826725982-e8508781c558?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "gender" : "Male"
+    }
+]
